@@ -1,0 +1,1549 @@
+@media (min-width: 320px) and (max-width: 575.98px) { 
+    
+    #banner_area .overlay .banner_content a {
+       
+        background-color: #4DF4AE;
+
+    }
+
+    .navbar {
+        top: 0;
+       padding: 15px;
+       background: #96d0e7;
+    }
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-toggler i {
+        color: blue;
+    }
+
+    .navbar-collapse {
+        background: aquamarine;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .navbar .container .navbar-nav {
+        
+        background: aqua;
+        padding: 20px;
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    .navbar form {
+        justify-content: center;
+        padding: 10px 10px;
+    }
+    .navbar form .nav-btn {
+        padding: 10px 20px;
+        background: #62EC57;
+        
+    }
+    #banner_area .overlay .banner_content h1 {
+        font-size: 30px;
+        width: auto;   
+        margin-top: 20px;
+    }
+    #banner_area .overlay{
+        padding: 0 15px;
+    }
+    #banner_area .overlay .banner_content p { 
+        font-size: 14px;
+        line-height: 21px;
+        width: auto;
+    }
+    #banner_area .banner_slider_area .banner_slider_1, 
+    #banner_area .banner_slider_area .banner_slider_2, 
+    #banner_area .banner_slider_area .banner_slider_3,
+    #banner_area .banner_slider_area .banner_slider_4{
+      padding: 35px 0 1px ;
+    }
+
+    #banner_area .overlay .banner_content a {
+        color: #eeede7;
+        font-size: 15px;
+        padding: 10px 30px;
+        border-radius: 6px;
+       
+    }
+
+    #banner_area .banner_slider_area ul li button {
+        height: 25px;
+        width: 25px;
+        line-height: 0;
+        font-size: 0;
+        
+    }
+    
+    #banner_area .banner_slider_area ul .slick-active button {
+        border: 4px solid #ffffff;
+    }
+
+ 
+/* ===============banner_part end==================== */
+/* ===============success_part start==================== */
+#Success-part  {
+    padding-top: 60px;
+    margin-top: -147px;
+}
+
+#Success-part .container {
+	padding: 20px 30px;
+
+}
+#Success-part .container .text {
+	text-align: center;
+    width: auto;
+
+}
+#Success-part .container .text h3 {
+    font-size: 22px;
+	width: auto;
+}
+#Success-part .container .text h2 {
+     font-size: 18px;
+	
+}
+
+#Success-part .container .main {
+	flex-direction: column;
+	row-gap: 30px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+/* ===============success_part end==================== */
+/* ===============Services_part start==================== */
+
+#Services-part {
+	margin: -60px 0;
+    padding: 60px 10px;
+  
+	
+}
+
+.title h2 {
+    font-size: 28px;
+	
+}
+#Services-part  .title p {
+    width: auto;
+    font-size: 14px;
+	
+}
+
+#Services-part .main h3 {
+	font-size: 22px;
+	margin: 29px 0 15px;
+}
+
+#Services-part .main p {
+	font-size: 13px;
+	line-height: 22px;
+}
+
+/* ===============Services_part end==================== */
+/* ===============Recent_part start==================== */
+
+#Recent-part {
+	padding: 60px 0;	
+}
+
+#Recent-part .container .title p {
+	width: auto;
+    font-size: 14px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+#Recent-part .container .row img {
+	width: 300px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+
+/* ===============Recent_part end==================== */
+/* ===============Agenc_part start==================== */
+
+#Agenc-part .container .title {
+    padding: 60px 10px;
+
+}
+
+#Agenc-part .container .title h2 {
+	width: auto;
+	padding-top: 60px;
+    font-size: 28px;
+}
+#Agenc-part .container .title p {
+	width: auto;
+	padding-top: 20px;
+    font-size: 13px;
+    
+}
+#Agenc-part .row {
+	margin-top: 25px;
+	row-gap: 30px;
+}
+#Agenc-part .row .top {
+	text-align: center;
+	
+}
+#Agenc-part .row p{
+	width: auto;
+	
+}
+#Agenc-part .row h4 {
+   font-size: 21px;
+        
+}
+#Agenc-part .row p {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 13px;
+	
+}
+
+#Agenc-part .row .bottom{
+    padding-top: 20px !important;
+}
+/* ===============Agenc_part end==================== */
+/* ===============slider-part start==================== */
+
+#slider-part .title p {
+	width: auto;
+    font-size: 13px;
+    padding: 5px 10px 30px;
+}
+
+/* #slider-part {
+	margin: 50px 0 100px;
+}   */
+#slider-part .main-slider .slider {
+	margin-top: 20px;
+}  
+
+#slider-part .main-slider .slider p {
+	font-size: 13px;
+	width: auto;
+    
+}
+
+#slider-part .main-slider .slider .client h5 {
+	font-size: 13px;
+	
+}
+
+#slider-part .main-slider .slider .client p {
+    font-size: 11px;
+	
+}
+
+#slider-part .main-slider .right {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;	
+	right: 40%;
+	top: 100%; 
+	
+}
+
+#slider-part .main-slider .left {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	left: 40%;
+	top: 100%;	
+	
+}
+
+
+/* ===============Agenc_part end==================== */
+/* ===============form-part start==================== */
+#form-part{
+    margin-bottom: 100px;
+}
+#form-part .left h2 {
+	width: auto;
+	font-size: 25px;
+	text-align: center;
+}
+
+#form-part .left h3 {
+	width: auto;
+	font-size: 13px;
+	text-align: center;
+}
+
+#form-part .left p {
+	width: auto;
+	font-size: 13px;
+	text-align: center;
+}
+#form-part .left {
+	padding-top: 60px;
+	
+}
+#form-part .form {
+	width: auto;
+    padding: 30px 20px;
+}
+
+#form-part .form form h4 {
+	font-size: 23px;
+	
+}
+
+#form-part .form form input {
+	font-size: 16px;
+	padding: 12px 3px;
+	
+}
+#form-part .form form button {
+	padding: 12px 0;
+}
+
+#form-part .left {
+	padding-top: 60px;
+	margin-bottom: -290px;
+}
+
+/* ===============form-part end==================== */
+/* ===============footer-part start==================== */
+
+
+footer{
+    margin-top: 20px;
+}
+
+footer .row .first{
+	text-align: center;
+}
+
+footer p {
+	width: auto;
+	font-size: 13px;	
+}
+
+footer .container{
+    padding: 0 10px;
+}
+
+footer .main  {
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	text-align: center;
+	row-gap: 30px;
+	margin-top: 20px;
+    column-gap: 0;
+}
+
+/* ===============footer-part  end==================== */
+
+
+}
+/*============================1=================================*/
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    
+    #banner_area .overlay .banner_content a {
+       
+        background-color: #4DF4AE;
+
+    }
+
+    .navbar {
+        top: 0;
+       padding: 15px;
+       background: #96d0e7;
+    }
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-toggler i {
+        color: blue;
+    }
+
+    .navbar-collapse {
+        background: aquamarine;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .navbar .container .navbar-nav {
+        
+        background: aqua;
+        padding: 20px;
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    .navbar form {
+        justify-content: center;
+        padding: 10px 10px;
+    }
+    .navbar form .nav-btn {
+        padding: 10px 20px;
+        background: #62EC57;
+        
+    }
+    #banner_area .overlay .banner_content h1 {
+        font-size: 41px;
+        width: auto;
+        margin-top: -8px;
+        
+    }
+    #banner_area .overlay{
+        padding: 0 15px;
+    }
+    #banner_area .overlay .banner_content p {
+        font-size: 17px;
+        line-height: 21px;
+        width: auto;
+    }
+    #banner_area .banner_slider_area .banner_slider_1, 
+    #banner_area .banner_slider_area .banner_slider_2, 
+    #banner_area .banner_slider_area .banner_slider_3,
+    #banner_area .banner_slider_area .banner_slider_4{
+      padding: 35px 0 1px ;
+    }
+
+    #banner_area .overlay .banner_content a {
+        color: #eeede7;
+        font-size: 15px;
+        padding: 10px 30px;
+        border-radius: 6px;
+       
+    }
+
+    #banner_area .banner_slider_area ul li button {
+        height: 25px;
+        width: 25px;
+        line-height: 0;
+        font-size: 0;
+        
+    }
+    
+    #banner_area .banner_slider_area ul .slick-active button {
+        border: 4px solid #ffffff;
+    }
+
+ 
+/* ===============banner_part end==================== */
+/* ===============success_part start==================== */
+#Success-part  {
+    padding-top: 60px;
+    margin-top: -147px;
+}
+
+#Success-part .container {
+	padding: 20px 30px;
+
+}
+#Success-part .container .text {
+	text-align: center;
+    width: auto;
+
+}
+#Success-part .container .text h3 {
+    font-size: 22px;
+	width: auto;
+}
+#Success-part .container .text h2 {
+     font-size: 18px;
+	
+}
+
+#Success-part .container .main {
+	flex-direction: row;
+	row-gap: 30px;
+	text-align: center;
+	padding-top: 20px;
+	justify-content: space-evenly;
+	column-gap: 0;
+}
+
+/* ===============success_part end==================== */
+/* ===============Services_part start==================== */
+
+#Services-part {
+	margin: -60px 0;
+    padding: 60px 10px;
+  
+	
+}
+
+.title h2 {
+	font-size: 34px;
+}
+#Services-part  .title p {
+    width: auto;
+    font-size: 17px;
+	
+}
+
+#Services-part .main h3 {
+	font-size: 16px;
+	margin: 18px 0 5px;
+}
+
+#Services-part .main p {
+	font-size: 11px;
+	line-height: 20px;
+}
+#Services-part .main {
+	padding: 30px 25px 22px 19px;
+	text-align: center;
+	border-radius: 16px;
+	transition: all linear .4s;
+}
+
+/* ===============Services_part end==================== */
+/* ===============Recent_part start==================== */
+
+#Recent-part {
+	padding: 60px 0;	
+}
+
+#Recent-part .container .title p {
+	width: auto;
+    font-size: 14px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+#Recent-part .container .row img {
+	width:250px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+#Recent-part .container .row .main h2 {
+	padding-top: 23px;
+}
+#Recent-part .container .row .main p {
+	padding-top: 4px
+	
+}
+
+
+
+
+/* ===============Recent_part end==================== */
+/* ===============Agenc_part start==================== */
+
+#Agenc-part .container .title {
+    padding: 60px 10px;
+
+}
+
+#Agenc-part .container .title h2 {
+	width: auto;
+	padding-top: 60px;
+    font-size: 28px;
+}
+#Agenc-part .container .title p {
+	width: auto;
+	padding-top: 20px;
+    font-size: 13px;
+    
+}
+#Agenc-part .row {
+	margin-top: 25px;
+	row-gap: 30px;
+}
+#Agenc-part .row .top {
+	text-align: center;
+	margin-top: -9px;
+}
+#Agenc-part .row p{
+	width: auto;
+	
+}
+#Agenc-part .row h4 {
+   font-size: 21px;
+        
+}
+#Agenc-part .row p {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 13px;
+	
+}
+
+#Agenc-part .row .bottom{
+    padding-top: 20px !important;
+}
+/* ===============Agenc_part end==================== */
+/* ===============slider-part start==================== */
+
+#slider-part .title p {
+	width: auto;
+    font-size: 13px;
+    padding: 5px 10px 30px;
+}
+
+/* #slider-part {
+	margin: 50px 0 100px;
+}   */
+#slider-part .main-slider .slider {
+	margin-top: 20px;
+}  
+
+#slider-part .main-slider .slider p {
+	font-size: 14px;
+	width: auto;
+    
+}
+
+#slider-part .main-slider .slider .client h5 {
+	font-size: 13px;
+	
+}
+
+#slider-part .main-slider .slider .client p {
+    font-size: 11px;
+	
+}
+
+#slider-part .main-slider .right {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;	
+	right: 40%;
+	top: 100%; 
+	
+}
+
+#slider-part .main-slider .left {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	left: 40%;
+	top: 100%;	
+}
+#slider-part .main-slider .slider p {
+        font-size: 17px;
+        width: auto;
+    }   
+
+#Agenc-part #team_img  {
+	width:600px;
+	
+}
+
+
+/* ===============Agenc_part end==================== */
+/* ===============form-part start==================== */
+#form-part{
+    margin-bottom: 100px;
+}
+#form-part .left h2 {
+	width: auto;
+	font-size: 25px;
+	text-align: center;
+}
+
+#form-part .left h3 {
+	width: auto;
+	font-size: 13px;
+	text-align: center;
+}
+
+#form-part .left p {
+	width: auto;
+	font-size: 13px;
+	text-align: center;
+}
+#form-part .left {
+	padding-top: 60px;
+	
+}
+#form-part .form {
+	width: auto;
+    padding: 30px 20px;
+}
+
+#form-part .form form h4 {
+	font-size: 23px;
+	
+}
+
+#form-part .form form input {
+	font-size: 16px;
+	padding: 12px 3px;
+	
+}
+#form-part .form form button {
+	padding: 12px 0;
+}
+
+#form-part .left {
+	padding-top: 60px;
+	margin-bottom: -290px;
+}
+
+/* ===============form-part end==================== */
+/* ===============footer-part start==================== */
+
+
+footer{
+    margin-top: 20px;
+}
+
+footer .row .first{
+	text-align: center;
+}
+
+footer p {
+	width: auto;
+	font-size: 13px;	
+}
+
+footer .container{
+    padding: 0 10px;
+}
+
+footer .main  {
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	text-align: center;
+	row-gap: 30px;
+	margin-top: 20px;
+    column-gap: 100px;
+}
+
+
+
+/* ===============footer-part  end==================== */
+}
+/* ==========================2================================== */
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    #banner_area .overlay .banner_content a {
+       
+        background-color: #4DF4AE;
+
+    }
+
+    .navbar {
+        top: 0;
+       padding: 15px;
+       background: #96d0e7;
+    }
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-toggler i {
+        color: blue;
+    }
+
+    .navbar-collapse {
+        background: aquamarine;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .navbar .container .navbar-nav {
+        
+        background: aqua;
+        padding: 20px;
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    .navbar form {
+        justify-content: center;
+        padding: 10px 10px;
+    }
+    .navbar form .nav-btn {
+        padding: 10px 20px;
+        background: #62EC57;
+        
+    }
+    #banner_area .overlay .banner_content h1 {
+        font-size: 50px;
+        width: auto;
+        margin-top: -8px;
+        
+    }
+    #banner_area .overlay{
+        padding: 0 15px;
+    }
+    #banner_area .overlay .banner_content p {
+        font-size: 23px;
+        
+    }
+    #banner_area .banner_slider_area .banner_slider_1, 
+    #banner_area .banner_slider_area .banner_slider_2, 
+    #banner_area .banner_slider_area .banner_slider_3,
+    #banner_area .banner_slider_area .banner_slider_4{
+      padding: 35px 0 1px ;
+    }
+
+    #banner_area .overlay .banner_content a {
+        color: #eeede7;
+        font-size: 15px;
+        padding: 10px 30px;
+        border-radius: 6px;
+       
+    }
+
+    #banner_area .banner_slider_area ul li button {
+        height: 25px;
+        width: 25px;
+        line-height: 0;
+        font-size: 0;
+        
+    }
+    
+    #banner_area .banner_slider_area ul .slick-active button {
+        border: 4px solid #ffffff;
+    }
+
+ 
+/* ===============banner_part end==================== */
+/* ===============success_part start==================== */
+#Success-part  {
+    padding-top: 60px;
+    margin-top: -147px;
+}
+
+#Success-part .container {
+	padding: 20px 30px;
+
+}
+#Success-part .container .text {
+	text-align: center;
+    width: auto;
+
+}
+#Success-part .container .text h3 {
+    font-size: 22px;
+	width: auto;
+}
+#Success-part .container .text h2 {
+     font-size: 18px;
+	
+}
+
+#Success-part .container .main {
+	flex-direction: row;
+	row-gap: 30px;
+	text-align: center;
+	padding-top: 20px;
+	justify-content: space-evenly;
+	column-gap: 0;
+}
+
+/* ===============success_part end==================== */
+/* ===============Services_part start==================== */
+
+#Services-part {
+	margin: -60px 0;
+    padding: 60px 10px;
+  
+	
+}
+
+.title h2 {
+	font-size: 34px;
+}
+#Services-part  .title p {
+    width: auto;
+    font-size: 17px;
+	
+}
+
+#Services-part .main h3 {
+	font-size: 16px;
+	margin: 18px 0 5px;
+}
+
+#Services-part .main p {
+	font-size: 11px;
+	line-height: 20px;
+}
+#Services-part .main {
+	padding: 30px 25px 22px 19px;
+	text-align: center;
+	border-radius: 16px;
+	transition: all linear .4s;
+}
+
+/* ===============Services_part end==================== */
+/* ===============Recent_part start==================== */
+
+#Recent-part {
+	padding: 60px 0;	
+}
+
+#Recent-part .container .title p {
+	width: auto;
+    font-size: 14px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+#Recent-part .container .row img {
+	width:250px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+#Recent-part .container .row .main h2 {
+	padding-top: 23px;
+}
+#Recent-part .container .row .main p {
+	padding-top: 4px
+	
+}
+
+#Agenc-part .team {
+	width: 686px;
+	height: 510px;
+}
+
+
+/* ===============Recent_part end==================== */
+/* ===============Agenc_part start==================== */
+
+#Agenc-part .container .title {
+    padding: 60px 10px;
+
+}
+
+#Agenc-part .container .title h2 {
+	width: auto;
+	padding-top: 60px;
+    font-size: 28px;
+}
+#Agenc-part .container .title p {
+	width: auto;
+	padding-top: 20px;
+    font-size: 13px;
+    
+}
+#Agenc-part .row {
+	margin-top: 25px;
+	row-gap: 30px;
+}
+#Agenc-part .row .top {
+	text-align: center;
+	margin-top: -9px;
+}
+#Agenc-part .row p{
+	width: auto;
+	
+}
+#Agenc-part .row h4 {
+   font-size: 21px;
+        
+}
+#Agenc-part .row p {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 13px;
+	
+}
+
+#Agenc-part .row .bottom{
+    padding-top: 20px !important;
+}
+/* ===============Agenc_part end==================== */
+/* ===============slider-part start==================== */
+
+#slider-part .title p {
+	
+    font-size: 20px;
+    
+}
+
+/* #slider-part {
+	margin: 50px 0 100px;
+}   */
+#slider-part .main-slider .slider {
+	margin-top: 20px;
+}  
+
+#slider-part .main-slider .slider p {
+	font-size: 14px;
+	width: auto;
+    
+}
+
+#slider-part .main-slider .slider .client h5 {
+	font-size: 13px;
+	
+}
+
+#slider-part .main-slider .slider .client p {
+    font-size: 11px;
+	
+}
+
+#slider-part .main-slider .right {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;	
+	right: 40%;
+	top: 100%; 
+	
+}
+
+#slider-part .main-slider .left {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	left: 40%;
+	top: 100%;	
+}
+#slider-part .main-slider .slider p {
+        font-size: 17px;
+        width: auto;
+    }   
+
+#Agenc-part #team_img  {
+	width:600px;
+	
+}
+
+
+/* ===============Agenc_part end==================== */
+/* ===============form-part start==================== */
+#form-part{
+    margin-bottom: 100px;
+}
+#form-part .left h2 {
+	width: auto;
+	font-size: 28px;
+	text-align: center;
+}
+
+#form-part .left h3 {
+	width: auto;
+	font-size: 16px;
+	text-align: center;
+}
+
+#form-part .left p {
+	width: auto;
+	font-size: 16px;
+	text-align: center;
+}
+#form-part .left {
+	padding-top: 60px;
+	
+}
+#form-part .form {
+	width: auto;
+    padding: 30px 20px;
+}
+
+#form-part .form form h4 {
+	font-size: 23px;
+	
+}
+
+#form-part .form form input {
+	font-size: 16px;
+	padding: 12px 3px;
+	
+}
+#form-part .form form button {
+	padding: 12px 0;
+}
+
+#form-part .left {
+	padding-top: 60px;
+	margin-bottom: -290px;
+}
+
+/* ===============form-part end==================== */
+/* ===============footer-part start==================== */
+
+
+footer{
+    margin-top: 20px;
+}
+
+footer .row .first{
+	text-align: center;
+}
+
+footer p {
+	width: auto;
+	font-size: 16px;	
+}
+
+footer .container{
+    padding: 0 10px;
+}
+
+footer .main  {
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	text-align: center;
+	row-gap: 30px;
+	margin-top: 20px;
+    column-gap: 150px;
+}
+
+
+
+/* ===============footer-part  end==================== */
+}
+/* ===========================3================================ */
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+    #banner_area .overlay .banner_content a {
+       
+        background-color: #4DF4AE;
+
+    }
+
+    .navbar {
+        top: 0;
+       padding: 15px;
+       background: #96d0e7;
+    }
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-toggler i {
+        color: blue;
+    }
+
+    .navbar-collapse {
+        background: aquamarine;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .navbar .container .navbar-nav {
+        
+        background: aqua;
+        padding: 20px;
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    .navbar form {
+        justify-content: center;
+        padding: 10px 10px;
+    }
+    .navbar form .nav-btn {
+        padding: 10px 20px;
+        background: #62EC57;
+        
+    }
+    #banner_area .overlay .banner_content h1 {
+        font-size: 50px;
+        width: auto;
+        margin-top: -8px;
+        
+    }
+    #banner_area .overlay{
+        padding: 0 15px;
+    }
+    #banner_area .overlay .banner_content p {
+        font-size: 23px;
+        
+    }
+    #banner_area .banner_slider_area .banner_slider_1, 
+    #banner_area .banner_slider_area .banner_slider_2, 
+    #banner_area .banner_slider_area .banner_slider_3,
+    #banner_area .banner_slider_area .banner_slider_4{
+      padding: 35px 0 1px ;
+    }
+
+    #banner_area .overlay .banner_content a {
+        color: #eeede7;
+        font-size: 15px;
+        padding: 10px 30px;
+        border-radius: 6px;
+       
+    }
+
+    #banner_area .banner_slider_area ul li button {
+        height: 25px;
+        width: 25px;
+        line-height: 0;
+        font-size: 0;
+        
+    }
+    
+    #banner_area .banner_slider_area ul .slick-active button {
+        border: 4px solid #ffffff;
+    }
+
+ 
+/* ===============banner_part end==================== */
+/* ===============success_part start==================== */
+#Success-part  {
+    padding-top: 60px;
+    margin-top: -147px;
+}
+
+#Success-part .container {
+	padding: 20px 30px;
+
+}
+#Success-part .container .text {
+	text-align: center;
+    width: auto;
+
+}
+#Success-part .container .text h3 {
+    font-size: 22px;
+	width: auto;
+}
+#Success-part .container .text h2 {
+     font-size: 18px;
+	
+}
+
+#Success-part .container .main {
+	flex-direction: row;
+	row-gap: 30px;
+	text-align: center;
+	padding-top: 20px;
+	justify-content: space-evenly;
+	column-gap: 0;
+}
+
+/* ===============success_part end==================== */
+/* ===============Services_part start==================== */
+
+#Services-part {
+	margin: -60px 0;
+    padding: 60px 10px;
+  
+	
+}
+
+.title h2 {
+	font-size: 34px;
+}
+#Services-part  .title p {
+    width: auto;
+    font-size: 17px;
+	
+}
+
+#Services-part .main h3 {
+	font-size: 16px;
+	margin: 18px 0 5px;
+}
+
+#Services-part .main p {
+	font-size: 11px;
+	line-height: 20px;
+}
+#Services-part .main {
+	padding: 30px 25px 22px 19px;
+	text-align: center;
+	border-radius: 16px;
+	transition: all linear .4s;
+}
+
+/* ===============Services_part end==================== */
+/* ===============Recent_part start==================== */
+
+#Recent-part {
+	padding: 60px 0;	
+}
+
+#Recent-part .container .title p {
+	width: auto;
+    font-size: 14px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+#Recent-part .container .row img {
+	width:250px;
+}
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+/* -----------------------------------problem--------------------------------------- */
+#Recent-part .container .row .main h2 {
+	padding-top: 23px;
+}
+#Recent-part .container .row .main p {
+	padding-top: 4px
+	
+}
+
+#Agenc-part .team {
+	width: 686px;
+	height: 510px;
+}
+
+
+/* ===============Recent_part end==================== */
+/* ===============Agenc_part start==================== */
+
+#Agenc-part .container .title {
+    padding: 60px 10px;
+
+}
+
+#Agenc-part .container .title h2 {
+	width: auto;
+	padding-top: 60px;
+    font-size: 28px;
+}
+#Agenc-part .container .title p {
+	width: auto;
+	padding-top: 20px;
+    font-size: 13px;
+    
+}
+#Agenc-part .row {
+	margin-top: 25px;
+	row-gap: 30px;
+}
+#Agenc-part .row .top {
+	text-align: center;
+	margin-top: -9px;
+}
+#Agenc-part .row p{
+	width: auto;
+	
+}
+#Agenc-part .row h4 {
+   font-size: 21px;
+        
+}
+#Agenc-part .row p {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 13px;
+	
+}
+
+#Agenc-part .row .bottom{
+    padding-top: 20px !important;
+}
+/* ===============Agenc_part end==================== */
+/* ===============slider-part start==================== */
+
+#slider-part .title p {
+	
+    font-size: 20px;
+    
+}
+
+/* #slider-part {
+	margin: 50px 0 100px;
+}   */
+#slider-part .main-slider .slider {
+	margin-top: 20px;
+}  
+
+#slider-part .main-slider .slider p {
+	font-size: 14px;
+	width: auto;
+    
+}
+
+#slider-part .main-slider .slider .client h5 {
+	font-size: 13px;
+	
+}
+
+#slider-part .main-slider .slider .client p {
+    font-size: 11px;
+	
+}
+
+#slider-part .main-slider .right {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;	
+	right: 40%;
+	top: 100%; 
+	
+}
+
+#slider-part .main-slider .left {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	left: 40%;
+	top: 100%;	
+}
+#slider-part .main-slider .slider p {
+        font-size: 17px;
+        width: auto;
+    }   
+
+#Agenc-part #team_img  {
+	width:600px;
+	
+}
+
+
+/* ===============Agenc_part end==================== */
+/* ===============form-part start==================== */
+#form-part{
+    margin-bottom: 100px;
+}
+#form-part .left h2 {
+	width: auto;
+	font-size: 28px;
+	text-align: center;
+}
+
+#form-part .left h3 {
+	width: auto;
+	font-size: 16px;
+	text-align: center;
+}
+
+#form-part .left p {
+	width: auto;
+	font-size: 16px;
+	text-align: center;
+}
+#form-part .left {
+	padding-top: 60px;
+	
+}
+#form-part .form {
+	width: auto;
+    padding: 30px 20px;
+}
+
+#form-part .form form h4 {
+	font-size: 23px;
+	
+}
+
+#form-part .form form input {
+	font-size: 16px;
+	padding: 12px 3px;
+	
+}
+#form-part .form form button {
+	padding: 12px 0;
+}
+
+#form-part .left {
+	padding-top: 60px;
+	margin-bottom: -290px;
+}
+
+/* ===============form-part end==================== */
+/* ===============footer-part start==================== */
+
+
+footer{
+    margin-top: 20px;
+}
+
+footer .row .first{
+	text-align: center;
+}
+
+footer p {
+	width: auto;
+	font-size: 16px;	
+}
+
+footer .container{
+    padding: 0 10px;
+}
+
+footer .main  {
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	text-align: center;
+	row-gap: 30px;
+	margin-top: 20px;
+    column-gap: 150px;
+}
+
+
+
+/* ===============footer-part  end==================== */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
